@@ -1,0 +1,7 @@
+metric	value
+tss_windows	280000
+tss_windows_with_at_least_one_str	247342
+fraction_tss_windows_with_at_least_one_str	0.883364
+total_str_tss_window_overlaps	687167
+mean_strs_per_tss_window	2.45417
+maximum_strs_in_one_tss_window	25

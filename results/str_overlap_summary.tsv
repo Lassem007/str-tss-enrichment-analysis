@@ -1,0 +1,5 @@
+metric	value
+total_str_loci	1638945
+str_loci_inside_pm2kb_tss_windows	194482
+str_loci_outside_pm2kb_tss_windows	1444463
+fraction_inside_pm2kb_tss_windows	0.118663

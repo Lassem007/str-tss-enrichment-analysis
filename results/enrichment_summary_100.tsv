@@ -1,0 +1,8 @@
+metric	value
+observed_overlap	194482.0
+expected_mean	178200.31
+expected_sd	369.8651595684923
+fold_enrichment	1.0913673494731855
+z_score	44.020610156942695
+empirical_p_value	0.009900990099009901
+number_of_permutations	100.0

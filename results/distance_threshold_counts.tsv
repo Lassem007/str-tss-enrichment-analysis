@@ -1,0 +1,4 @@
+distance_threshold	str_associated_output_lines
+<=500_bp	56134
+<=1000_bp	107471
+<=2000_bp	205821
