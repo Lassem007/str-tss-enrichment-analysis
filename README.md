@@ -76,7 +76,7 @@ python3 scripts/05_make_figures.py
 
 Important result tables:
 
-* `results/input_summary.tsv`
+* `results/input_tss_summary.tsv`
 * `results/str_overlap_summary.tsv`
 * `results/tss_window_str_count_summary.tsv`
 * `results/distance_threshold_counts.tsv`
